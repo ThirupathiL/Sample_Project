@@ -112,8 +112,7 @@ The test remains **business-readable**, while implementation details are handled
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/FLIPKARTJS.git
-cd FLIPKARTJS
+
 ```
 
 ### 2️⃣ Install dependencies
@@ -175,7 +174,7 @@ The report includes:
 
 ## 👩‍💻 Author
 
-**Aishwarya** – QA Automation Engineer | SDET
+**Thirupathi** – QA Automation Engineer
 
 * Experience with Playwright, Selenium, and API automation
 * Strong focus on framework design and test reliability
