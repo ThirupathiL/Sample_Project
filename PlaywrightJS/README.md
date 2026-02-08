@@ -175,7 +175,7 @@ The report includes:
 
 ## 👩‍💻 Author
 
-**Aishwarya** – QA Automation Engineer | SDET
+**Thirupathi** – QA Automation Engineer | SDET
 
 * Experience with Playwright, Selenium, and API automation
 * Strong focus on framework design and test reliability
