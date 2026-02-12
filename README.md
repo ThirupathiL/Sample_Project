@@ -1,4 +1,4 @@
-# FlipCart_PlaywrightJS
+# Flipkart_PlaywrightJS
 # Playwright Automation Framework – Flipkart E2E Testing
 
 A **real-world Playwright automation framework** built using **JavaScript** to validate a critical e-commerce user journey on **Flipkart**.
